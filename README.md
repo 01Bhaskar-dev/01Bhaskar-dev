@@ -1,6 +1,9 @@
 <!-- 🌟 CYBERPUNK HACKER PROFILE - ANIMATED EDITION 🌟 -->
 <div align="center">
 
+<!-- 💥 ULTRA DYNAMIC SKILL SHOWCASE - NEW ADDITION 💥 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2000&pause=500&color=ff004c&background=0a0a0a&center=true&vCenter=true&repeat=true&width=900&lines=💻+Python+%7C+JavaScript+%7C+React+%7C+Node.js;🤖+Machine+Learning+%7C+Data+Science;☁️+AWS+%7C+Docker+%7C+Kubernetes;🚀+Full-Stack+Developer+%7C+IIT+Madras" alt="Dynamic Skills Banner" style="border-radius: 15px; box-shadow: 0 0 30px #ff004c, 0 0 60px #00f0ff; margin-bottom: 25px; border: 2px solid #00f0ff;"/>
+
 <!-- 🎯 ANIMATED AVATAR WITH NEON GLOW -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&lines=👨‍💻+BHASKAR+DEV;🚀+CYBER+ARCHITECT;⚡+DATA+SCIENTIST;🔥+ML+ENGINEER" alt="Animated Cyber Banner" style="margin-bottom: 20px;"/>
 
