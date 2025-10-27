@@ -27,11 +27,11 @@
 <!-- ⚡ Neon-Style Platform Badges with Hover Animations -->
 <p align="center">
   <img alt="IIT Madras" src="https://img.shields.io/badge/IIT%20Madras-Data%20Science%20Student-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-   
+  
   <img alt="Competitive Programming" src="https://img.shields.io/badge/Competitive%20Programmer-Expert-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
-   
+  
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-Enthusiast-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-   
+  
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
@@ -41,11 +41,26 @@
 <!-- 🏅 GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=01Bhaskar-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-   
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Bhaskar-dev&theme=radical&hide_border=true" />
 </p>
 
-<!-- 🏆 Animated Banner -->
-![Dynamic SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=F70000&center=true&vCenter=true&width=800&lines=Hi+I'm+Bhaskar+Sharma!;IIT+Madras+DS+Student;Competitive+Programmer+|+Cloud+Learner+🚀;Welcome+to+my+GitHub+Universe!)
+<!-- 🌟 Styled Subtitle -->
+<p align="center">
+  <i><b>Exploring data science, cloud, and development as a passionate IIT Madras student!</b></i>
+</p>
 
 ---
+
+<!-- 🔗 Connect With Me -->
+<p align="center">
+  <a href="https://leetcode.com/u/24fbhaskar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhaskar-sharma-b56b412a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" />
+  </a>
+</p>
