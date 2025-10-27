@@ -30,65 +30,58 @@
 
 ## 🚀 **ABOUT BHASKAR SHARMA**
 
-Hey there! 👋 I'm Bhaskar Sharma, currently pursuing Data Science at IIT Madras. I'm passionate about building innovative solutions with code and continuously learning new technologies.
+Hello! I'm **Bhaskar Sharma**, a passionate **Data Science & Machine Learning Enthusiast**, currently pursuing my journey at **IIT Madras BS in Data Science and Applications**. I love building innovative solutions with **Full-Stack Development**, **Cloud Technologies**, and **AI/ML**.
 
-- 🎓 **Education**: IIT Madras - BS in Data Science
-- 💻 **Current Focus**: Full-stack development, Machine Learning, and Cloud Computing
-- 🌱 **Learning**: Expanding my skills in ML, cloud architectures, and data engineering
-- 🎯 **Goal**: Contributing to impactful projects and open source communities
-
----
-
-## 🌟 **ACHIEVEMENTS & RECOGNITION**
-
-### 🏆 **Google Cloud Skills Boost**
-- **Google Cloud Arcade 2024 Participant** - Completed multiple skill badges and challenges
-- **18+ Skill Badges Earned** including:
-  - Generative AI Fundamentals
-  - Cloud Computing Fundamentals
-  - App Building with Google Cloud
-  - Machine Learning APIs
-  - And many more!
-- 🔗 [View My Google Cloud Profile & Badges](https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e)
-
-### 💻 **Coding Journey**
-- 📚 **Active Learner** - Continuously solving problems and building projects
-- 🔧 **GitHub Contributions** - Contributing to personal and collaborative projects
-- 🚀 **Project Portfolio** - Building full-stack applications and ML projects
-
-### 🎓 **Education & Certifications**
-- 🎯 **IIT Madras** - BS in Data Science (Ongoing)
-- ☁️ **Google Cloud Skills Boost** - Multiple skill badges in Cloud Computing, ML, and Generative AI
-- 📊 **Focus Areas** - Data Science, Machine Learning, Full-Stack Development, Cloud Computing
+- 🔭 Currently working on: **Real-World Data Science Projects**
+- 🌱 Learning: **Advanced ML, GCP, AWS, and Full-Stack Development**
+- 💬 Ask me about: **Python, Data Science, ML, Web Development, Cloud**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/bhaskar-dev) | [LeetCode](https://leetcode.com/01Bhaskar-dev) | [Google Cloud](https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e)
+- ⚡ Fun fact: I debug like Sherlock Holmes 🔍
 
 ---
 
-## 🛠️ **TECH ARSENAL**
+## 🏆 **ACHIEVEMENTS & RECOGNITION**
 
-### 💻 **Languages**
+<div align="center">
+
+| 🎯 **Achievement** | 📌 **Details** | 🔗 **Link** |
+|:---|:---|:---|
+| **🎮 Google Cloud Arcade 2024** | **Participant** - Successfully completed the **Google Cloud Arcade Facilitator Program 2024**, earning **18+ verified skill badges** in cloud technologies, networking, security, and data analytics. | [View Profile](https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e) |
+| **💻 LeetCode Coding Journey** | Actively solving coding challenges on LeetCode, building strong problem-solving skills in data structures, algorithms, and competitive programming. | [LeetCode Profile](https://leetcode.com/01Bhaskar-dev) |
+| **🚀 GitHub Contributions** | Maintaining an active GitHub presence with ongoing contributions to personal projects, open-source initiatives, and real-world applications. | [GitHub Profile](https://github.com/01Bhaskar-dev) |
+| **🎓 IIT Madras BS Data Science** | Currently enrolled in the **IIT Madras BS in Data Science and Applications** program, pursuing advanced education in data science, statistics, and machine learning. | [IIT Madras BS](https://onlinedegree.iitm.ac.in/) |
+| **📜 Google Cloud Skill Badges** | Earned **18+ verified Google Cloud skill badges**, including badges in Google Cloud Infrastructure, Networking, Security, Data Engineering, and Machine Learning. | [View Badges](https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e) |
+
+</div>
+
+---
+
+## 💻 **TECH ARSENAL**
+
+### 🔤 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🌐 **Web Development**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧠 **Data Science & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🤖 **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -138,7 +131,6 @@ Hey there! 👋 I'm Bhaskar Sharma, currently pursuing Data Science at IIT Madra
 
 <div align="center">
   <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand">
-  <br />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand" />
   <strong>Thanks for visiting! Let's connect and build something incredible together! 🚀</strong>
 </div>
