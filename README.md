@@ -23,8 +23,8 @@
 
 ## 👨‍💻 About Me
 
-🚀 Passionate developer and data science enthusiast from IIT Madras
-💻 Full-Stack Developer | Machine Learning | Cloud Computing
+🚀 Passionate developer and data science enthusiast from IIT Madras  
+💻 Full-Stack Developer | Machine Learning | Cloud Computing  
 🔥 Building innovative solutions with cutting-edge technologies
 
 ---
@@ -49,6 +49,5 @@
 
 ## 📫 Contact
 
-📧 Email: bs9638990@gmail.com
+📧 Email: bs9638990@gmail.com  
 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/bhaskar-dev)
-💻 GitHub: [Follow me](https://github.com/01Bhaskar-dev)
