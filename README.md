@@ -21,11 +21,11 @@
   <a href="https://leetcode.com/u/24fbhaskar/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" style="filter: drop-shadow(0 0 30px #F59E42); animation: pulse 0.8s infinite alternate;"/>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bhaskar-sharma-b56b412a8" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="filter: drop-shadow(0 0 30px #6366F1); animation: pulse 1.1s infinite alternate;"/>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.skills.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_Icon.png" width="40" alt="Google Cloud" style="filter: drop-shadow(0 0 30px #06B6D4); animation: pulse 1s infinite alternate;"/>
   </a>
@@ -35,11 +35,18 @@
 
 <!-- 🧬 ANIMATED TYPING SVG DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=IITM+BS+Data+Science+Student+📚;Google+Arcade+2024+Milestone+Winner+🎮;Cloud+Skills+Boost+Achiever+💡;Always+Building+%26+Learning+🚀;Open+to+Collaborate+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" alt="neon-divider"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="neon-divider" height="2"/>
+</p>
+
+---
+
+<!-- 🏆 ACHIEVEMENTS BLOCK -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=01Bhaskar-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -48,6 +55,18 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  🎓 <strong>IIT Madras</strong> BS Data Science Student<br/>
-  🔭 Currently exploring <strong>Machine Learning, Cloud Computing & Web Development</strong><br/>
+  🎓 IIT Madras BS Data Science Student<br/>
+  🔭 Currently exploring Machine Learning, Cloud Computing & Web Development<br/>
+  💡 Passionate about solving real-world problems with technology<br/>
+  🌱 Always learning and growing in the tech ecosystem<br/>
+  ⚡ Fun fact: I turn coffee into code!
+</p>
+
+---
+
+<!-- 📬 CONTACT BADGE -->
+<p align="center">
+  <a href="mailto:24fbhaskar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-24fbhaskar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
