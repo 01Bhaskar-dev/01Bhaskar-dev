@@ -1,9 +1,9 @@
-<!-- 🎯 SUPER COOL ANIMATED CODING CHARACTER 🎯 -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlmZGIwbzh1bWIwdTI4M284cDN4aTc5b2cybHk5YWNxMmtkMW94cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SG6JXzFtxPDna/giphy.gif" width="400" alt="Coding Animation" />
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ExdjBueGZrbmhpeXp5Z29pYTJ2NTNjZ2U5a2lxMHd5d3RsOWx1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding Avatar" width="410" height="200" style="border-radius:18px;">
+</p>
 
-<!-- 🌟 VIBRANT NEON BANNER 🌟 -->
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E42:6366F1:06B6D4&height=120&section=header&text=Bhaskar%20Sharma%20%7C%20IITM%20DS%20%7C%20Techie&fontColor=43e7f2&fontSize=38&animation=twinkle" alt="Neon Banner" />
 </div>
