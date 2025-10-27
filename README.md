@@ -16,124 +16,84 @@
   <a href="https://linkedin.com/in/bhaskar-dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="44" height="44" style="margin: 0 10px;" />
   </a>
-  <a href="https://www.cloudskillsboost.google" target="_blank">
+  <a href="https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e" target="_blank">
     <img src="https://www.gstatic.com/cloud/images/social-icon-google-cloud-120.png" alt="Google Cloud" width="44" height="44" style="margin: 0 10px;" />
   </a>
 </div>
 
 <!-- ⚡ ANIMATED TYPING SUBTITLE ⚡ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=43E7F2&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+Engineer;Full-Stack+Developer+%7C+Cloud+Architect;Google+Arcade+2024+Winner+🏆;Open+Source+Contributor+%7C+Problem+Solver;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=43E7F2&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+Enthusiast;Full-Stack+Developer+%7C+Cloud+Learner;Google+Cloud+Skills+Boost+Participant;Building+the+Future+with+Code+%26+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 **ABOUT BHASKAR SHARMA**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Bhaskar-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+Hey there! 👋 I'm Bhaskar Sharma, currently pursuing Data Science at IIT Madras. I'm passionate about building innovative solutions with code and continuously learning new technologies.
 
-### 🎓 **Academic Excellence**
-- 🏛️ **Indian Institute of Technology Madras (IITM)** - Data Science Program
-- 📊 **Specialized in:** Machine Learning, Deep Learning, Statistical Analysis
-- 🧠 **Research Focus:** AI/ML Applications in Real-world Problem Solving
-
-### 💼 **Professional Expertise**
-- 🔥 **Full-Stack Development:** MERN, Django, Flask, FastAPI
-- ☁️ **Cloud Architecture:** Google Cloud Platform (GCP), AWS, Docker, Kubernetes
-- 🤖 **AI/ML Engineering:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- 📈 **Data Engineering:** SQL, NoSQL, ETL Pipelines, Big Data Analytics
-- 🔧 **DevOps:** CI/CD, Git, Linux, Microservices Architecture
-
-### 🏆 **Key Achievements**
-- 🥇 **Google Cloud Arcade 2024 Winner** - Top performer in cloud challenges
-- 💻 **500+ LeetCode Problems Solved** - Strong algorithmic problem-solving skills
-- 🌟 **Open Source Contributor** - Multiple projects with 100+ stars combined
-- 🎯 **Hackathon Winner** - Multiple tech competitions and coding contests
-- 📜 **Certified Professional** - GCP, AWS, and various tech certifications
-
-### 🔬 **Current Projects**
-- 🤖 Building advanced ML models for predictive analytics
-- ☁️ Developing scalable cloud-native applications
-- 📊 Creating data visualization dashboards for business intelligence
-- 🌐 Contributing to open-source AI/ML libraries
-
-### 🤝 **Let's Collaborate!**
-- 💡 Open to exciting **Data Science** and **Full-Stack Development** opportunities
-- 🚀 Passionate about **innovative tech solutions** and **AI research**
-- 🌟 Always eager to learn new technologies and tackle challenging problems
-- 📚 Love mentoring fellow developers and sharing knowledge
-
-### 🎉 **Fun Facts**
-- ☕ Coffee-powered coding sessions are my specialty
-- 🎮 Gaming enthusiast who applies game theory to real problems
-- 📖 Avid tech blogger and YouTube content creator
-- 🌍 Dream: To impact millions of lives through technology
+- 🎓 **Education**: IIT Madras - BS in Data Science
+- 💻 **Current Focus**: Full-stack development, Machine Learning, and Cloud Computing
+- 🌱 **Learning**: Expanding my skills in ML, cloud architectures, and data engineering
+- 🎯 **Goal**: Contributing to impactful projects and open source communities
 
 ---
 
 ## 🌟 **ACHIEVEMENTS & RECOGNITION**
 
-<div align="center">
+### 🏆 **Google Cloud Skills Boost**
+- **Google Cloud Arcade 2024 Participant** - Completed multiple skill badges and challenges
+- **18+ Skill Badges Earned** including:
+  - Generative AI Fundamentals
+  - Cloud Computing Fundamentals
+  - App Building with Google Cloud
+  - Machine Learning APIs
+  - And many more!
+- 🔗 [View My Google Cloud Profile & Badges](https://www.cloudskillsboost.google/public_profiles/5494d097-c898-49a1-ae4d-d893015ff82e)
 
-| 🏆 Achievement | 📊 Details | 🔗 Link |
-|:---|:---|:---|
-| **Google Cloud Arcade 2024** | 🥇 Winner - Top 1% globally | [Certificate](https://www.cloudskillsboost.google) |
-| **LeetCode Champion** | 🔥 500+ problems solved | [Profile](https://leetcode.com/01Bhaskar-dev) |
-| **GitHub Contributions** | 🌟 1000+ commits this year | [GitHub](https://github.com/01Bhaskar-dev) |
-| **Open Source Impact** | 🚀 Multiple starred repositories | [Portfolio](https://github.com/01Bhaskar-dev) |
-| **Technical Certifications** | 📜 GCP, AWS, ML Specialized | [LinkedIn](https://linkedin.com/in/bhaskar-dev) |
-| **Hackathon Success** | 🏅 Multiple competition wins | [Projects](#) |
+### 💻 **Coding Journey**
+- 📚 **Active Learner** - Continuously solving problems and building projects
+- 🔧 **GitHub Contributions** - Contributing to personal and collaborative projects
+- 🚀 **Project Portfolio** - Building full-stack applications and ML projects
 
-</div>
-
----
-
-## 📧 **CONTACT & CONNECT**
-
-<div align="center">
-  <h3>📬 Let's Build Something Amazing Together!</h3>
-  
-  <a href="mailto:bs9638990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bs9638990%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Email.gif" width="100" alt="Email Animation" />
-  
-</div>
+### 🎓 **Education & Certifications**
+- 🎯 **IIT Madras** - BS in Data Science (Ongoing)
+- ☁️ **Google Cloud Skills Boost** - Multiple skill badges in Cloud Computing, ML, and Generative AI
+- 📊 **Focus Areas** - Data Science, Machine Learning, Full-Stack Development, Cloud Computing
 
 ---
 
-## 🛠️ **TECH STACK & TOOLS**
+## 🛠️ **TECH ARSENAL**
 
-<div align="center">
-
-### 💻 **Programming Languages**
+### 💻 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🚀 **Frameworks & Libraries**
+### 🌐 **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -148,8 +108,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
@@ -181,6 +139,6 @@
 <div align="center">
   <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</h3>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand">
-  <br>
+  <br />
   <strong>Thanks for visiting! Let's connect and build something incredible together! 🚀</strong>
 </div>
